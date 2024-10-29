@@ -18,6 +18,6 @@ criaCartao(
 
 criaCartao(
     'Geografia',
-    'Qual as três maiores potências do Mundo? (Mundial)',
-    'EUA - Estados Unidos da América, China e Rússia são as maiores potências do Mundo (Mundialmente)'
+    'Qual as três maiores potências do Mundo?',
+    'EUA - Estados Unidos da América, China e Rússia são as maiores potências do Mundo'
 )
